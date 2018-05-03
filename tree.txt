@@ -1,0 +1,13 @@
+Folder PATH listing
+Volume serial number is 00000001 6AB2:9CD2
+S:\THE_BREAK_INTO_TECH_BLUEPRINT\PORTFOLIO\ARI-PORTFOLIO-PROJECT-18
+|   index.html
+|   tree.txt
+|   
++---css
+|       main.css
+|       normalize.css
+|       
+\---img
+        .gitignore
+        
